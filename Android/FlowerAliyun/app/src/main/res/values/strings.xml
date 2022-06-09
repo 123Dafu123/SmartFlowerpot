@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Flower</string>
+    <string name="productKey">a1QkjBJJJKM</string>
+    <string name="deviceName">android</string>
+    <string name="deviceSecret">af4a436638b181ee64e88d2d24135fff</string>
+    <string name="subtopic">/sys/a1QkjBJJJKM/android/thing/service/property/set</string>
+    <string name="pubtopic">/sys/a1QkjBJJJKM/android/thing/event/property/post</string>
+    <string name="relytopic">/sys/a1QkjBJJJKM/android/thing/event/property/post_reply</string>
+    <string name="pubmethod">thing.event.property.post</string>
+    <string name="submethod">thing.service.property.set</string>
+    <string name="soliHumi">土壤湿度</string>
+    <string name="soliTemp">土壤温度</string>
+    <string name="buttonLed">补光状态</string>
+    <string name="buttonPump">水泵状态</string>
+</resources>
